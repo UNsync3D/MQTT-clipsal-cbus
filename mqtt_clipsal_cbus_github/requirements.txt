@@ -1,4 +1,0 @@
-aiohttp>=3.9
-websockets>=12.0
-paho-mqtt>=1.6
-pyyaml>=6.0
